@@ -1,4 +1,4 @@
-# sagemaker_endpoint_configuration
+# SageMaker Endpoint Configuration
 Using terraform to setup SageMaker Endpoint
 
 Steps:
